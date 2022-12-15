@@ -201,7 +201,9 @@ WHERE name LIKE '%one%';
 -- 6 companies have the string 'one' somewhere in their names 
 
 
-/*Write a query that returns all companies whose names end with 's'.*/
+/*
+Write a query that returns all companies whose names end with 's'.
+*/
 
 SELECT name
 FROM accounts
@@ -277,7 +279,9 @@ WHERE standard_qty > 1000
 	AND gloss_qty = 0;
 
 
-/*Using the accounts table, find all the companies whose names do not start with 'c' and end with 's'.*/
+/*
+Using the accounts table, find all the companies whose names do not start with 'c' and end with 's'.
+*/
 
 SELECT name
 FROM accounts
@@ -321,7 +325,9 @@ WHERE gloss_qty > 4000
 	OR poster_qty > 4000;
 
 
-/*Write a query that returns a list of orders where the standard_qty is zero and either the gloss_qty or poster_qty is over 1000.*/
+/*
+Write a query that returns a list of orders where the standard_qty is zero and either the gloss_qty or poster_qty is over 1000.
+*/
 
 SELECT id, standard_qty, gloss_qty, poster_qty
 FROM orders
