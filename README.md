@@ -8,4 +8,4 @@ All you need to do is to create the parch and posey database using  the code 'CR
 
 And the copy the codes for the creation of the different tables and run it in Microsft SQL Server Management Studio or Azure Data Studio.
 
-It's good to know that Transact-SQL was used for this project
+It's good to know that Transact-SQL was used for this project.
