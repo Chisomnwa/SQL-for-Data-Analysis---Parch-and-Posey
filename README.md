@@ -10,3 +10,4 @@ And then copy the codes for the creation of the different tables and run it in M
 
 It's good to know that Transact-SQL was used for this project.
 
+[Parch and Posey Schema](https://github.com/Chisomnwa/SQL-for-Data-Analysis---Parch-and-Posey/blob/main/Parcn%20and%20Posey%20Schema.png)
