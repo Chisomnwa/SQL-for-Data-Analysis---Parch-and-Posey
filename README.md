@@ -6,6 +6,6 @@ Parch and Posey is a hypothetical paper company's sales data of different types 
 
 All you need to do is to create the parch and posey database using  the code 'CREATE DATABASE parch_and_posey'
 
-And the copy the codes for the creation of the diffrent tables and run it in Microsft SQL Server Management Studio or Azure Data Studio.
+And the copy the codes for the creation of the different tables and run it in Microsft SQL Server Management Studio or Azure Data Studio.
 
 It's good to know that Transact-SQL was used for this project
